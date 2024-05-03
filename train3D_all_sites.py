@@ -11,7 +11,6 @@ import torch.nn as nn
 
 #images_path = '/work/forkert_lab/erik/mitacs_dataset'
 images_path = '/work/forkert_lab/mitacs_dataset/affine_using_nifty_reg'
-dataframe_path = '/home/erik.ohara/SFCN_PD_scanner'
 output_path = '/home/erik.ohara/SFCN_PD_scanner/model_all_sites'
 
 batch_size = 4
